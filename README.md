@@ -5,8 +5,8 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Mikael Tahtinen
+- INTKM26A
 
 ## Projektin kuvaus
 
